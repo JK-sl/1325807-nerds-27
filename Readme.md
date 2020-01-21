@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [J K](https://up.htmlacademy.ru/htmlcss/27/user/1325807).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Антонова](https://htmlacademy.ru/profile/id39082).
 
 ---
 
